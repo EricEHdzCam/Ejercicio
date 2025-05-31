@@ -1,0 +1,15 @@
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\ClientesServicioApplication.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\controllers\ClienteController.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\controllers\PrestamoController.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\entities\Cliente.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\entities\EstadoPrestamo.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\entities\Prestamo.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\entities\TipoCliente.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\repositories\ClienteRepository.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\repositories\ClienteRepositoryImpl.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\repositories\IClienteRepository.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\repositories\PrestamoRepository.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\services\ClienteService.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\services\PrestamoService.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\TestClienteRepository.java
+C:\PROGRAMACION\Evaluacion\workspace\clientes-servicio\src\main\java\com\example\demo\TestClienteService.java

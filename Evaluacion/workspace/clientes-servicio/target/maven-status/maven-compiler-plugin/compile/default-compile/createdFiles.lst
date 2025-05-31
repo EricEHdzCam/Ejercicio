@@ -1,0 +1,17 @@
+com\example\demo\entities\Cliente.class
+com\example\demo\repositories\IClienteRepository.class
+com\example\demo\services\ClienteService.class
+com\example\demo\TestClienteRepository.class
+com\example\demo\services\PrestamoService.class
+com\example\demo\repositories\ClienteRepository.class
+com\example\demo\entities\EstadoPrestamo.class
+com\example\demo\controllers\ClienteController.class
+com\example\demo\repositories\ClienteRepositoryImpl.class
+com\example\demo\services\ClienteService$1.class
+com\example\demo\services\PrestamoService$1.class
+com\example\demo\entities\Prestamo.class
+com\example\demo\controllers\PrestamoController.class
+com\example\demo\ClientesServicioApplication.class
+com\example\demo\TestClienteService.class
+com\example\demo\repositories\PrestamoRepository.class
+com\example\demo\entities\TipoCliente.class
